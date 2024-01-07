@@ -1,4 +1,4 @@
-央视,#genre#
+央视&卫视,#genre#
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?fbl=
@@ -10,11 +10,9 @@ CCTV13,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
 CCTV14,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
 CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
 
-卫视,#genre#
 北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=9a9b405c5fd291476598139dcf3161d3&volcTime=1704160856
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -22,28 +20,19 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 
 地方,#genre#
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?fbl=$QWDX超清
-吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?fbl=$QWDX超清
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?fbl=$QWDX超清
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 
-中国环球电视,#genre#
+其它,#genre#
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-香港,#genre#
-港澳台DaAi1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-港澳台DaAi2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-
-欧洲华文,#genre#
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+DaAi,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+DaAi,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+EZTV1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 
 电影直播,#genre#
 古装片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336590
